@@ -44,7 +44,7 @@
 <br />
 <br />
 
-***Let's connect! Find me on the web***
+**Let's connect! Find me on the web**
 
 <br />
 <br />
