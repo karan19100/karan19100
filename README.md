@@ -44,7 +44,6 @@
 <br />
 
 ### **Let's connect! Find me on the web**
-<br /> 
 
 [<img align="left" alt="codeSTACKr" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://karanshah1910.me/)
 [<img align="left" alt="codeSTACKr | hashnode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hashnode.svg" />](https://karanshah1910.hashnode.dev/)
