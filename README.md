@@ -1,13 +1,13 @@
 <img align="right" src="https://github.com/karan19100/karan19100/blob/main/developer.gif" alt="Coder GIF" width="420" height="330">
 
-### Hi there, I am Karan Shah <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+## Hi there, I am Karan Shah <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 [![Linkedin Badge](https://img.shields.io/badge/-Karan_Shah-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karan-shah-a8ab6016b/)](https://www.linkedin.com/in/karan-shah-a8ab6016b/)
 [![Gmail Badge](https://img.shields.io/badge/-karanshah2019@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:karanshah2019@gmail.com)](mailto:karanshah2019@gmail.com) 
 
 - 🎯 Portfolio website: [Portfolio](https://karanshah1910.me/)
 - ⚡ Fun fact: The first rule of programming- if it works, don’t touch it.🤓
 
-💻 **Things I love**
+### 💻 **Things I love**
 - Coding <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 - Frontend Development ✍️
 - Research & Development 🧐
@@ -18,7 +18,7 @@
     src="https://github-readme-stats.vercel.app/api?username=karan19100&show_icons=true&theme=dark&count_private=false&include_all_commits=true" />
 </a>
 
-## 🛠**Tech Stack**
+###  🛠**Tech Stack**
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -45,7 +45,7 @@
 <br />
 <br />
 
-**Let's connect! Find me on the web**
+### **Let's connect! Find me on the web**
 <br /> 
 
 [<img align="left" alt="codeSTACKr" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://karanshah1910.me/)
