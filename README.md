@@ -5,7 +5,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-karanshah2019@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:karanshah2019@gmail.com)](mailto:karanshah2019@gmail.com) 
 
 - 🎯 Portfolio website: [Portfolio](https://karanshah1910.me/)
-- ⚡ Fun fact: The first rule of programming- if it works, don’t touch it.🤓
+- ⚡ **Fun fact:** The first rule of programming- if it works, don’t touch it.🤓
 
 ### 💻 **Things I love**
 - Coding <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
