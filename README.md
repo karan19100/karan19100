@@ -59,4 +59,28 @@
     <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
 </div>
 
+<table><tr><td valign="top" width="50%">
+
+### My Latest Blog Posts 🌱
+<!-- BLOG-POST-LIST:START -->
+- [10 Minutes to Dataframe in Pandas](https://karanshah1910.hashnode.dev/10-minutes-to-dataframe-in-pandas)
+- [Master NumPy Library for Data Analysis in Python in 10 Minutes](https://karanshah1910.hashnode.dev/master-numpy-library-for-data-analysis-in-python-in-10-    minutes)
+- [Face Mask Detection using Open CV](https://karanshah1910.hashnode.dev/face-mask-detection-using-open-cv)
+- [Correlation and Regression : a Case Study in R](https://karanshah1910.hashnode.dev/correlation-and-regression-a-case-study-in-r)
+<!-- BLOG-POST-LIST:END -->
+➡️ [more blog posts...](https://karanshah1910.hashnode.dev/)
+</td>
+<td valign="top" width="50%">
+
+### My Latest projects 🌱
+<!-- PROJECT:START -->
+- [Contactless hand Sanitizer dispenser using IoT](https://github.com/karan19100/Contactless-hand-Sanitizer-dispenser-using-IoT)
+- [Diabetes Predictor](https://github.com/karan19100/Diabetes-Predictor-)
+- [App Analysis System](https://github.com/karan19100/App-Analysis-System-)
+- [Face Mask Detection uisng Open CV](https://github.com/karan19100/Face-Mask-Detection-using-Open-CV-)
+<!-- PROJECT:END -->
+➡️ [more videos...](https://github.com/karan19100)
+</td>
+
+
 
