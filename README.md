@@ -72,7 +72,7 @@
 </td>
 <td valign="top" width="50%">
 
-### My Latest projects 🌱
+### My Latest projects 🧰
 <!-- PROJECT:START -->
 - [Contactless hand Sanitizer dispenser using IoT](https://github.com/karan19100/Contactless-hand-Sanitizer-dispenser-using-IoT)
 - [Diabetes Predictor](https://github.com/karan19100/Diabetes-Predictor-)
