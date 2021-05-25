@@ -64,8 +64,7 @@
 ### My Latest Blog Posts 🌱
 <!-- BLOG-POST-LIST:START -->
 - [10 Minutes to Dataframe in Pandas](https://karanshah1910.hashnode.dev/10-minutes-to-dataframe-in-pandas)
-- [Master NumPy Library for Data Analysis in Python in 10 Minutes](https://karanshah1910.hashnode.dev/master-numpy-library-for-data-analysis-in-python-in-10-minutes)
-    
+- [Master NumPy Library for Data Analysis in Python in 10 Minutes](https://karanshah1910.hashnode.dev/master-numpy-library-for-data-analysis-in-python-in-10-minutes)  
 - [Face Mask Detection using Open CV](https://karanshah1910.hashnode.dev/face-mask-detection-using-open-cv)
 - [Correlation and Regression : a Case Study in R](https://karanshah1910.hashnode.dev/correlation-and-regression-a-case-study-in-r)
 <!-- BLOG-POST-LIST:END -->
