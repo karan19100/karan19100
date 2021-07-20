@@ -4,7 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Karan_Shah-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karan-shah-a8ab6016b/)](https://www.linkedin.com/in/karan-shah-a8ab6016b/)
 [![Gmail Badge](https://img.shields.io/badge/-karanshah2019@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:karanshah2019@gmail.com)](mailto:karanshah2019@gmail.com) 
 
-- 🎯 Portfolio website: [Portfolio](https://karanshah1910.me/)
+- 🎯 Portfolio website: [Portfolio](https://karanshah1910.tech/)
 - ⚡ **Fun fact:** The first rule of programming- if it works, don’t touch it.🤓
 
 ### 💻 **Things I love**
