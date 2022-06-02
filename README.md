@@ -46,7 +46,7 @@
 ### **Let's connect! Find me on the web**
 
 [<img align="left" alt="codeSTACKr" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://karanshah1910.tech/)
-[<img align="left" alt="codeSTACKr | hashnode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hashnode.svg" />](https://karanshah1910.codes/)
+[<img align="left" alt="codeSTACKr | hashnode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hashnode.svg" />](https://www.karanshah.tech/)
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/karanshah1910)
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/karan-shah-1910/)
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/karanshah1910/)
@@ -63,12 +63,12 @@
 
 ### My Latest Blog Posts 🌱
 <!-- BLOG-POST-LIST:START -->
-- [10 Minutes to Dataframe in Pandas](https://karanshah1910.hashnode.dev/10-minutes-to-dataframe-in-pandas)
-- [Master NumPy Library for Data Analysis in Python in 10 Minutes](https://karanshah1910.hashnode.dev/master-numpy-library-for-data-analysis-in-python-in-10-minutes)  
-- [Face Mask Detection using Open CV](https://karanshah1910.hashnode.dev/face-mask-detection-using-open-cv)
-- [Correlation and Regression : a Case Study in R](https://karanshah1910.hashnode.dev/correlation-and-regression-a-case-study-in-r)
+- [10 Minutes to Dataframe in Pandas](https://www.karanshah.tech/10-minutes-to-dataframe-in-pandas)
+- [Master NumPy Library for Data Analysis in Python in 10 Minutes](https://www.karanshah.tech/master-numpy-library-for-data-analysis-in-python-in-10-minutes)  
+- [Face Mask Detection using Open CV](https://www.karanshah.tech/face-mask-detection-using-open-cv)
+- [Correlation and Regression : a Case Study in R](https://www.karanshah.tech/correlation-and-regression-a-case-study-in-r)
 <!-- BLOG-POST-LIST:END -->
-➡️ [more blog posts...](https://karanshah1910.codes/)
+➡️ [more blog posts...](https://karanshah.tech/)
 </td>
 <td valign="top" width="50%">
 
