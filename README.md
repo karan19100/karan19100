@@ -68,7 +68,7 @@
 - [Face Mask Detection using Open CV](https://www.karanshah.tech/face-mask-detection-using-open-cv)
 - [Correlation and Regression : a Case Study in R](https://www.karanshah.tech/correlation-and-regression-a-case-study-in-r)
 <!-- BLOG-POST-LIST:END -->
-➡️ [more blog posts...](https://karanshah.tech/)
+➡️ [more blog posts...](https://www.karanshah.tech/)
 </td>
 <td valign="top" width="50%">
 
