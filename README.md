@@ -1,11 +1,16 @@
-
 ## Hi there, I am Karan Shah 👋
 [![Linkedin Badge](https://img.shields.io/badge/-Karan_Shah-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karan-shah-a8ab6016b/)](https://www.linkedin.com/in/karan-shah-a8ab6016b/)
 [![Gmail Badge](https://img.shields.io/badge/-karanshah2019@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:karanshah2019@gmail.com)](mailto:karanshah2019@gmail.com) 
 [![Website shields.io](https://img.shields.io/website-karanshah1910.tech-down-green-red/http/shields.io.svg)](https://karanshah1910.tech/)
 
-- 🎯 Portfolio website: [Portfolio](https://karanshah1910.tech/)
-- ⚡ **Fun fact:** The first rule of programming- if it works, don’t touch it.🤓
+### 🎯 **About Me**
+Hi, I am Karan Shah, a Electronics Undergraduate student from KJ Somaiya College of Engineering (KJSCE). I love problem solving, and hence I have been involved in developing solutions to address real-world problems using software development. Recently, I have been fascinated with Artifical Intelligence and hope to dive deeper into it.
+
+I hope to realise my long-term career goal of building truly intelligent programs for humanity.Self-motivated, creative and a quick learner in tools & technologies used for software development workflow and passionately learn new things until I master them. 
+
+I am a passionate individual who thrives to build and apply algorithms to solve real- world industry problems.I am also fond of writing blogs on programming, Technology and love exploring it.
+
+⚡ **Fun fact:** The first rule of programming- if it works, don’t touch it.🤓
 
 ### 💻 **Things I love**
 - Coding <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
@@ -42,6 +47,7 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
+
 
 ### **Let's connect! Find me on the web**
 
