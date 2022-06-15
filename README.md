@@ -17,11 +17,11 @@ I am a passionate individual who thrives to build and apply algorithms to solve 
 - Frontend Development ✍️
 - Research & Development 🧐
 - Data Science 😬
-
+<!-- 
 <a href="https://gitstats.me/karan19100">
     <img width="420" height="auto" align="right" alt="Prerak's github stats" 
     src="https://github-readme-stats.vercel.app/api?username=karan19100&show_icons=true&theme=dark&count_private=false&include_all_commits=true" />
-</a>
+</a> -->
 
 ###  🛠**Tech Stack**
 
