@@ -5,6 +5,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-karanshah2019@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:karanshah2019@gmail.com)](mailto:karanshah2019@gmail.com) 
  <a href="https://www.buymeacoffee.com/karanshah" target="_blank"><img alt="" src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=flat&logo=buy-me-a-coffee&logoColor=black" style="vertical-align:center" /></a>
 [![Website shields.io](https://img.shields.io/website-karanshah1910.tech-down-green-red/http/shields.io.svg)](https://karanshah1910.tech/)
+[![](https://visitcount.itsvg.in/api?id=karan19100&pretty=true)](https://github-visitor-counter-pro.vercel.app)
 
 ### 🎯 **About Me**
 Hi, I am Karan Shah, a Electronics Undergraduate student from KJ Somaiya College of Engineering (KJSCE). I love problem solving, and hence I have been involved in developing solutions to address real-world problems using software development. Recently, I have been fascinated with Artifical Intelligence and hope to dive deeper into it.
