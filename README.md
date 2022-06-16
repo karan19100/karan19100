@@ -77,7 +77,6 @@ I am a passionate individual who thrives to build and apply algorithms to solve 
 [![Karan's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=themlphdstudent&theme=algolia&hide=Jupyter&layout=compact&show_icons=true)](https://github.com/karan19100/github-readme-stats)
  -->
 
-
 ### **Let's connect! Find me on the web**
 
 [<img align="left" alt="codeSTACKr" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://karanshah1910.tech/)
