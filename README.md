@@ -8,7 +8,7 @@
 [![](https://visitcount.itsvg.in/api?id=karan19100&pretty=true)](https://github-visitor-counter-pro.vercel.app)
 
 ### 🎯 **About Me**
-Hi, I am Karan Shah, a Electronics Undergraduate student from KJ Somaiya College of Engineering (KJSCE). I love problem solving, and hence I have been involved in developing solutions to address real-world problems using software development. Recently, I have been fascinated with Artifical Intelligence and hope to dive deeper into it.
+Hi, I am Software Engineer in NPCI, I am Undergraduate from KJ Somaiya College of Engineering (KJSCE) with major in Electronics Engineering. I love problem solving, and hence I have been involved in developing solutions to address real-world problems using software development. Recently, I have been fascinated with Artifical Intelligence and hope to dive deeper into it.
 
 I hope to realise my long-term career goal of building truly intelligent programs for humanity.Self-motivated, creative and a quick learner in tools & technologies used for software development workflow and passionately learn new things until I master them. 
 
