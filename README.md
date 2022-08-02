@@ -79,8 +79,8 @@ I am a passionate individual who thrives to build and apply algorithms to solve 
 
 ### **Let's connect! Find me on the web**
 
-[<img align="left" alt="codeSTACKr" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://karanshah1910.tech/)
-[<img align="left" alt="codeSTACKr | hashnode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hashnode.svg" />](https://www.karanshah.tech/)
+[<img align="left" alt="codeSTACKr" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://karanshah.tech/)
+[<img align="left" alt="codeSTACKr | hashnode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hashnode.svg" />](https://karanshah.tech/)
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/karanshah1910)
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/karan-shah-1910/)
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/karanshah1910/)
