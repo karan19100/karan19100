@@ -108,11 +108,11 @@ I am a passionate individual who thrives to build and apply algorithms to solve 
 
 ### My Latest projects 🧰
 <!-- PROJECT:START -->
+- [CyberBullying Detection in Hinglish Languages Using Machine Learning](https://github.com/karan19100/CyberBullying-Detection-in-Hinglish-Languages-Using-Machine-Learning-)
 - [Contactless hand Sanitizer dispenser using IoT](https://github.com/karan19100/Contactless-hand-Sanitizer-dispenser-using-IoT)
 - [Diabetes Predictor](https://github.com/karan19100/Diabetes-Predictor-)
 - [App Analysis System](https://github.com/karan19100/App-Analysis-System-)
 - [Face Mask Detection uisng Open CV](https://github.com/karan19100/Face-Mask-Detection-using-Open-CV-)
-- [Arcade classic game](https://github.com/karan19100/Arcade-classic-game)
 <!-- PROJECT:END -->
 ➡️ [more projects...](https://github.com/karan19100)
 </td>
