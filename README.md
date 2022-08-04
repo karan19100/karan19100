@@ -100,7 +100,7 @@ I am a passionate individual who thrives to build and apply algorithms to solve 
 - [10 Minutes to Dataframe in Pandas](https://www.karanshah.tech/10-minutes-to-dataframe-in-pandas)
 - [Master NumPy Library for Data Analysis in Python in 10 Minutes](https://www.karanshah.tech/master-numpy-library-for-data-analysis-in-python-in-10-minutes)  
 - [Face Mask Detection using Open CV](https://www.karanshah.tech/face-mask-detection-using-open-cv)
-- [Correlation and Regression : a Case Study in R](https://www.karanshah.tech/correlation-and-regression-a-case-study-in-r)
+- [Correlation and Regression : a Case Study using R programming and Linear regression](https://www.karanshah.tech/correlation-and-regression-a-case-study-in-r)
 <!-- BLOG-POST-LIST:END -->
 ➡️ [more blog posts...](https://www.karanshah.tech/)
 </td>
