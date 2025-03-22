@@ -1,4 +1,4 @@
-<img src="https://github.com/karan19100/karan19100/blob/main/FINAL_BANNER.png" alt="Coder GIF" width="1400" height="250">
+<img src="https://github.com/karan19100/karan19100/blob/main/banner.png" alt="Coder GIF" width="1400" height="250">
 
 ## Hi there, I am Karan Shah 👋
 [![Linkedin Badge](https://img.shields.io/badge/-Karan_Shah-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karan-shah-a8ab6016b/)](https://www.linkedin.com/in/karan-shah-a8ab6016b/)
