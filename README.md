@@ -8,19 +8,19 @@
 [![](https://visitcount.itsvg.in/api?id=karan19100&pretty=true)](https://github-visitor-counter-pro.vercel.app)
 
 ### 🎯 **About Me**
-Hi, I am Software Engineer in NPCI, I am Undergraduate from KJ Somaiya College of Engineering (KJSCE) with major in Electronics Engineering. I love problem solving, and hence I have been involved in developing solutions to address real-world problems using software development. Recently, I have been fascinated with Artifical Intelligence and hope to dive deeper into it.
+I’m a cybersecurity strategist || Infrastructure Guardian || Cyber Innovator || Strategic Problem Solver. I thrive on decoding threats and fortifying digital landscapes. With a solid foundation in information security, risk management, and infrastructure defense, I navigate the ever-evolving cyber frontier to build resilient systems in a connected world.
 
-I hope to realise my long-term career goal of building truly intelligent programs for humanity.Self-motivated, creative and a quick learner in tools & technologies used for software development workflow and passionately learn new things until I master them. 
+My passion for Artificial Intelligence drives me to explore its transformative potential — creating intelligent programs that benefit humanity. A relentless learner, I embrace challenges that push me to grow both technically and creatively.
 
-I am a passionate individual who thrives to build and apply algorithms to solve real- world industry problems.I am also fond of writing blogs on programming, Technology and love exploring it.
+**"The Rogue Cipher"** isn’t just a name; it’s a mindset. It represents my dedication to challenging norms, outsmarting cyber adversaries, and shaping a secure future for technology. Fueled by curiosity and innovation, I’m here to make an impact — one algorithm at a time.
 
 ⚡ **Fun fact:** The first rule of programming- if it works, don’t touch it.🤓
 
 ### 💻 **Things I love**
-- Coding <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-- Frontend Development ✍️
-- Research & Development 🧐
-- Data Science 😬
+- Cracking the Code of Curiosity <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+- Fueling Imagination, One Cipher at a Time ✍️
+- Exploring the Unseen in Tech and Beyond 🧐
+- Decrypting Ideas, Crafting Stories 😬
 <!-- 
 <a href="https://gitstats.me/karan19100">
     <img width="420" height="auto" align="right" alt="Prerak's github stats" 
