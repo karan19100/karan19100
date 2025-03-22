@@ -1,6 +1,6 @@
 <img src="https://github.com/karan19100/karan19100/blob/main/banner.png" alt="Coder GIF" width="1400" height="250">
 
-## Hi there, I am Karan Shah 👋
+## Hi, I am Karan Shah 👋 - "The Rogue Cipher"
 [![Linkedin Badge](https://img.shields.io/badge/-Karan_Shah-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karan-shah-a8ab6016b/)](https://www.linkedin.com/in/karan-shah-a8ab6016b/)
 [![Gmail Badge](https://img.shields.io/badge/-shahkaran1910@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:karanshah2019@gmail.com)](mailto:shahkaran1910@gmail.com) 
  <a href="https://www.buymeacoffee.com/karanshah" target="_blank"><img alt="" src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=flat&logo=buy-me-a-coffee&logoColor=black" style="vertical-align:center" /></a>
